@@ -1,4 +1,4 @@
-## Proyecto de Máscara de Tarjeta de Crédito
+### Proyecto de Máscara de Tarjeta de Crédito
 
 Este proyecto implementa una interfaz de entrada para datos de tarjetas de crédito, incluyendo el número de la tarjeta, la fecha de vencimiento y el CVV. Se aplican máscaras de formato a cada campo para mejorar la experiencia del usuario y asegurar que los datos sean ingresados correctamente.
 
